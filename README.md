@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has been implemented using React and Styled Components which was part of the [The Frontend Developer Career Path](https://scrimba.com/learn/frontend).
 
 ## Available Scripts
 
